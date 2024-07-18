@@ -5,18 +5,17 @@ This repository contains the code and resources for predicting energy consumptio
 Drawing from two notable studies on energy prediction, this project focuses on utilizing Random Forest (RF) and Long Short-Term Memory (LSTM) models due to their demonstrated effectiveness. The dataset includes internal temperature, humidity, and external weather data.
 
 ## Key Components:
-**Random Forest and LSTM Models:** Implemented based on proven success in previous studies. `<br>`
-**Feature Selection:** Utilized Boruta and Pearson correlation methods to identify key predictors.`<br>`
-**Performance Evaluation:** Assessed using metrics such as MSE, RMSE, MAE, and R².`<br>`
-
+* **Random Forest and LSTM Models:** Implemented based on proven success in previous studies.
+* **Feature Selection:** Utilized Boruta and Pearson correlation methods to identify key predictors.
+* **Performance Evaluation:** Assessed using metrics such as MSE, RMSE, MAE, and R².
 ## Dataset
 The dataset encompasses a diverse range of environmental and energy-related indicators, providing valuable insights into factors that influence energy consumption. Data exploration, preprocessing, and feature engineering steps are included to ensure the dataset is well-prepared for model training.
 
 ## Methodology
 ### Random Forest:
-**Baseline Model:** Initial model performance evaluation.`<br>`
-**Feature Selection:** Using Boruta algorithm.`<br>`
-**Hyperparameter Tuning:** Randomized and Grid Search techniques to optimize the model.`<br>`
+* **Baseline Model:** Initial model performance evaluation.
+* **Feature Selection:** Using Boruta algorithm.
+* **Hyperparameter Tuning:** Randomized and Grid Search techniques to optimize the model.
 
 ## LSTM:
 **Data Preparation:** Scaling and reshaping for CNN-LSTM models.`<br>`
