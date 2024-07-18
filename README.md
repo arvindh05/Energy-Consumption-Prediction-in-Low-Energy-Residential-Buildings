@@ -18,18 +18,15 @@ The dataset encompasses a diverse range of environmental and energy-related indi
 * **Hyperparameter Tuning:** Randomized and Grid Search techniques to optimize the model.
 
 ## LSTM:
-**Data Preparation:** Scaling and reshaping for CNN-LSTM models.`<br>`
-**Baseline Model:** Univariate model for initial performance.`<br>`
-**Feature Selection and Parameter Tuning:** Identifying optimal features and parameters for improved model accuracy.`<br>`
+* **Data Preparation:** Scaling and reshaping for CNN-LSTM models.
+* **Baseline Model:** Univariate model for initial performance.
+* **Feature Selection and Parameter Tuning:** Identifying optimal features and parameters for improved model accuracy.
 
 ## Results
 Both models were evaluated using a range of performance metrics to ensure robustness and accuracy. Detailed results and comparisons with the referenced studies are provided.
 
 ## References
-**Paper 1:** [Energy use prediction using regression models](https://www.sciencedirect.com/science/article/abs/pii/S0378778816308970?via%3Dihub)`<br>`
-**Paper 2:** [Household appliance energy consumption prediction](https://www.researchgate.net/publication/339680663_Prediction_model_of_household_appliance_energy_consumption_based_on_machine_learning)`<br>`
+* **Paper 1:** [Energy use prediction using regression models](https://www.sciencedirect.com/science/article/abs/pii/S0378778816308970?via%3Dihub)
+* **Paper 2:** [Household appliance energy consumption prediction](https://www.researchgate.net/publication/339680663_Prediction_model_of_household_appliance_energy_consumption_based_on_machine_learning)
 
-## How to Use
-Clone the repository.
-Install required dependencies.
-Run the Jupyter notebooks provided for data preprocessing, model training, and evaluation.
+
